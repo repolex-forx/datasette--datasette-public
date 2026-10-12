@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-public",
+  "versions": [
+    {
+      "commit": "15585d8c79e9757b792b9a8d6d331f0df354a15e",
+      "tag": "0.4a2",
+      "parsed_at": "2026-10-12T16:57:59.784104+00:00"
+    }
+  ]
+}
